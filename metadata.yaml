@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '41146'
     url: http://www.gutenberg.org/2009/agents/41146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41371#Erinnerungen-an-Leo-N.-Tolstoi
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2012-11-16'
 gutenberg_type: Text
