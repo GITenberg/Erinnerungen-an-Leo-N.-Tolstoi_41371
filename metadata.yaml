@@ -1,0 +1,32 @@
+_repo: Erinnerungen-an-Leo-N.-Tolstoi_41371
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41371-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Tolstaia, A. A. (Aleksandra Andreevna), grafinia
+    aliases:
+    - Tolstoi, A. A., Grafin
+    - Tolstoy, Alexandra, Countess
+    - Tolstaia, Aleksandra Andreevna, grafinia
+    - Tolstoi, A. A., Gräfin
+    birthdate: 1817
+    deathdate: 1904
+    gutenberg_agent_id: '41146'
+    url: http://www.gutenberg.org/2009/agents/41146
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2012-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41371'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+title: Erinnerungen an Leo N. Tolstoi
+url: http://www.gutenberg.org/ebooks/41371
